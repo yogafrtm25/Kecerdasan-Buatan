@@ -6,6 +6,7 @@ NAMA KELOMPOK : - Yoga Pratama           312210042
                 - Ihsan Hadimulya        312210047
                 
 Judul Penelitian : KLASIFIKASI UJARAN KEBENCIAN PADA MEDIA SOSIAL MENGGUNAKAN TF-IDF DAN LOGISTIC REGRESSION
+
 Code berada dalam file diatas
 
 Sekian dari kami TERIMA KASIH.
